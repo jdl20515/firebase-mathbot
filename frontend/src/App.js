@@ -8,6 +8,7 @@ function App() {
       <div>
          <BrowserRouter>
             <BaseLayout/>
+
          </BrowserRouter>
       </div>
    );
